@@ -14,10 +14,16 @@ has_children: false
 ## Description 
 According 
 
+## Mass Open Cloud
+Mass Open Cloud ( https://massopen.cloud/ ) that includes facilitation support for users and projects, with integration and development support for those who are new to AI/ML and kubernetes-style resource management.  The MOC operates a production Red Hat/OpenShift cloud and also provides bare-metal servers for research and development use.   All operations software is open source, so experimenters can have access to the lowest levels of the software stack as needed.  Telemetry is also stored and provided to all researchers. Power consumption statistics for the infrastructure are also available on request for those who are researching sustainability.
+
+## Red Hat AI open cloud software stack  
+that includes RHEL-AI for experimentation (https://developers.redhat.com/learn/rhel-ai-try-llms-easy-way) and OpenShift AI for enterprise application development (https://www.redhat.com/en/products/ai/openshift-ai). This environment provides tools across the full lifecycle of AI/ML experiments and models and helps build, train, test, and deploy models optimized for hybrid cloud environments.  
 
 
 
-## Core AI Projects 
+## IBM Research Open Source Tools & Models
+# Core AI Projects 
 * IBM Granite models (https://www.ibm.com/granite) are trained on 12T+ tokens of high-quality, curated data and open sourced with Apache 2.0 license.   They are designed for  
 enterprise tasks supporting language (English, German, Spanish, French, Japanese, Portuguese, Arabic, Czech, Italian, Korean, Dutch, and Chinese) and code (generation, explanation, docstring and pseudocode generation, unit test generation, code fixing)
 * Instruct Lab (https://www.redhat.com/en/topics/ai/what-is-instructlab) is a methodology (with tool support) to enable collaborative model development.  This empowers non-technical experts to teach models about their domains and drives improved model performance at a fraction of the cost of pre-training. 
@@ -25,10 +31,9 @@ enterprise tasks supporting language (English, German, Spanish, French, Japanese
 * Data Prep Kit ( https://github.com/data-prep-kit/data-prep-kit ) is an open-source toolkit that contains data preparation recipes for code and language modalities, aimed at fine-tuning, RAG, and instruct-tuning use cases that supports flexible computing from laptop to cluster scale.
 *	Unitxt (https://github.com/IBM/unitxt) is an open-source Python library designed for enterprise-ready LLM evaluation, offering thousands of datasets, metrics, and built-in tools for creating custom benchmarks.  
 
-  
 
 
-## AI for Science Projects  
+# AI for Science Projects  
 
 *	Foundation Model for Materials (FM4M) is a suite of models pre-trained on billions of multimodal molecular data built on SMILES, SELFIES, and molecular graphs.  You can bring your own data to address general and domain-specific prediction tasks (e.g. battery materials).  Available at:
 o	Github: https://github.com/IBM/materials/ 
