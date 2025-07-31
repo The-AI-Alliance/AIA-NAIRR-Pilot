@@ -10,7 +10,6 @@ has_children: false
 > **Tip:** Use the search box at the top of this page to find specific content.
 
 
-
 ## Description 
 **What is a NAIRR Pilot?** The National Artificial Intelligence Research Resource (NAIRR) is a vision for a shared national research infrastructure for responsible discovery and innovation in AI. Established by the National AI Initiative Act of 2020, the NAIRR Task Force was a federal advisory committee to 
 * Investigate the feasibility and advisability of establishing and sustaining a National AI Research Resource 
@@ -18,6 +17,8 @@ has_children: false
 
 In January 2023, the Task Force released a [detailed report](https://nsf-gov-resources.nsf.gov/files/NAIRR-TF-Presentations-01132023.pdf) on its findings and recommendations. The NAIRR pilot brings together computational, data, software, model, training and user support resources to demonstrate and investigate all major elements of the NAIRR vision laid out by the NAIRR Task Force. Led by the U.S. National Science Foundation (NSF) in partnership with other federal agencies and non-governmental partners, the pilot makes available government-funded, industry and other contributed resources in support of the nation's research and education community. The NAIRR pilot will run for two years, beginning January 24, 2024.
 
+**The AI Alliance**
+As a leading organization The NAIRR project resources for this 
 
 ## Mass Open Cloud
 Mass Open Cloud ( https://massopen.cloud/ ) that includes facilitation support for users and projects, with integration and development support for those who are new to AI/ML and kubernetes-style resource management.  The MOC operates a production Red Hat/OpenShift cloud and also provides bare-metal servers for research and development use.   All operations software is open source, so experimenters can have access to the lowest levels of the software stack as needed.  Telemetry is also stored and provided to all researchers. Power consumption statistics for the infrastructure are also available on request for those who are researching sustainability.
