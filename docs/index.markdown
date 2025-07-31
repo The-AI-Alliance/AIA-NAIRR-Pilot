@@ -5,7 +5,7 @@ nav_order: 10
 has_children: false
 ---
 
-# AAAI 25: Workshop on Open-Source AI for Mainstream Use
+# AI Alliance Participation in the NSF/NAIRR Pilots 
 
 > **Tip:** Use the search box at the top of this page to find specific content.
 
