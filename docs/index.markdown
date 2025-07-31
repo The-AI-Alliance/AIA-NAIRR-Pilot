@@ -5,7 +5,7 @@ nav_order: 10
 has_children: false
 ---
 
-# AI Alliance Participation in the NSF/NAIRR Pilots 
+# AI Alliance Coordination to Support NSF/NAIRR Pilots 
 
 > **Tip:** Use the search box at the top of this page to find specific content.
 
@@ -19,7 +19,6 @@ Mass Open Cloud ( https://massopen.cloud/ ) that includes facilitation support f
 
 ## Red Hat AI open cloud software stack  
 that includes RHEL-AI for experimentation (https://developers.redhat.com/learn/rhel-ai-try-llms-easy-way) and OpenShift AI for enterprise application development (https://www.redhat.com/en/products/ai/openshift-ai). This environment provides tools across the full lifecycle of AI/ML experiments and models and helps build, train, test, and deploy models optimized for hybrid cloud environments.  
-
 
 
 ## IBM Research Open Source Tools & Models
