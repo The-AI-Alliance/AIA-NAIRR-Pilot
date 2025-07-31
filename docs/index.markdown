@@ -12,10 +12,11 @@ has_children: false
 
 
 ## Description 
-**What is NAIRR Pilot?** The National Artificial Intelligence Research Resource (NAIRR) is a vision for a shared national research infrastructure for responsible discovery and innovation in AI. Established by the National AI Initiative Act of 2020, the NAIRR Task Force was a federal advisory committee to 
+**What is a NAIRR Pilot?** The National Artificial Intelligence Research Resource (NAIRR) is a vision for a shared national research infrastructure for responsible discovery and innovation in AI. Established by the National AI Initiative Act of 2020, the NAIRR Task Force was a federal advisory committee to 
 * Investigate the feasibility and advisability of establishing and sustaining a National AI Research Resource 
 * Propose a roadmap and implementation plan detailing how the resource should be established and sustained
-In January 2023, the Task Force released a [detailed report](https://nsf-gov-resources.nsf.gov/files/NAIRR-TF-Presentations-01132023.pdf) on its findings and recommendations. The NAIRR pilot brings together computational, data, software, model, training and user support resources to demonstrate and investigate all major elements of the NAIRR vision first laid out by the NAIRR Task Force. Led by the U.S. National Science Foundation (NSF) in partnership with other federal agencies and non-governmental partners, the pilot makes available government-funded, industry and other contributed resources in support of the nation's research and education community. The NAIRR pilot will run for two years, beginning January 24, 2024.
+
+In January 2023, the Task Force released a [detailed report](https://nsf-gov-resources.nsf.gov/files/NAIRR-TF-Presentations-01132023.pdf) on its findings and recommendations. The NAIRR pilot brings together computational, data, software, model, training and user support resources to demonstrate and investigate all major elements of the NAIRR vision laid out by the NAIRR Task Force. Led by the U.S. National Science Foundation (NSF) in partnership with other federal agencies and non-governmental partners, the pilot makes available government-funded, industry and other contributed resources in support of the nation's research and education community. The NAIRR pilot will run for two years, beginning January 24, 2024.
 
 
 ## Mass Open Cloud
