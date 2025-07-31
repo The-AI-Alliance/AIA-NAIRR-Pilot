@@ -5,20 +5,24 @@ nav_order: 10
 has_children: false
 ---
 
-# AI Alliance Coordination to Support NSF/NAIRR Pilots 
+# AI Alliance Coordination to Support NSF/NAIRR Pilot 
 
 > **Tip:** Use the search box at the top of this page to find specific content.
 
 
 ## Description 
-**What is a NAIRR Pilot?** The National Artificial Intelligence Research Resource (NAIRR) is a vision for a shared national research infrastructure for responsible discovery and innovation in AI. Established by the National AI Initiative Act of 2020, the NAIRR Task Force was a federal advisory committee to 
+
+**The AI Alliance.**
+[The AI Alliance](https://thealliance.ai/) is focused on fostering an open community and enabling developers and researchers to accelerate responsible innovation in AI while ensuring scientific rigor, trust, safety, security, diversity and economic competitiveness. We bring together a critical mass of compute, data, tools, and talent to accelerate and advocate for open innovation in AI.
+
+**What is NAIRR Pilot?** The National Artificial Intelligence Research Resource (NAIRR) is a vision for a shared national research infrastructure for responsible discovery and innovation in AI. Established by the National AI Initiative Act of 2020, the NAIRR Task Force was a federal advisory committee to 
 * Investigate the feasibility and advisability of establishing and sustaining a National AI Research Resource 
 * Propose a roadmap and implementation plan detailing how the resource should be established and sustained
 
-In January 2023, the Task Force released a [detailed report](https://nsf-gov-resources.nsf.gov/files/NAIRR-TF-Presentations-01132023.pdf) on its findings and recommendations. The NAIRR pilot brings together computational, data, software, model, training and user support resources to demonstrate and investigate all major elements of the NAIRR vision laid out by the NAIRR Task Force. Led by the U.S. National Science Foundation (NSF) in partnership with other federal agencies and non-governmental partners, the pilot makes available government-funded, industry and other contributed resources in support of the nation's research and education community. The NAIRR pilot will run for two years, beginning January 24, 2024.
+In January 2023, the Task Force released a [detailed report](https://nsf-gov-resources.nsf.gov/files/NAIRR-TF-Presentations-01132023.pdf) on its findings and recommendations. The [NAIRR pilot] (https://nairrpilot.org/) brings together computational, data, software, model, training and user support resources to demonstrate and investigate all major elements of the NAIRR vision laid out by the NAIRR Task Force. Led by the U.S. National Science Foundation (NSF) in partnership with other federal agencies and non-governmental partners, the pilot makes available government-funded, industry and other contributed resources in support of the nation's research and education community. The NAIRR pilot will run for two years, beginning January 24, 2024.  
 
-**The AI Alliance**
-The AI Alliance is focused on fostering an open community and enabling developers and researchers to accelerate responsible innovation in AI while ensuring scientific rigor, trust, safety, security, diversity and economic competitiveness. We bring together a critical mass of compute, data, tools, and talent to accelerate and advocate for open innovation in AI.
+
+
 
 
 
