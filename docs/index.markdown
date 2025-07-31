@@ -12,8 +12,7 @@ has_children: false
 
 ## Description 
 
-**The AI Alliance.**
-[The AI Alliance](https://thealliance.ai/) is focused on fostering an open community and enabling developers and researchers to accelerate responsible innovation in AI while ensuring scientific rigor, trust, safety, security, diversity and economic competitiveness. We bring together a critical mass of compute, data, tools, and talent to accelerate and advocate for open innovation in AI.
+[**The AI Alliance**](https://thealliance.ai/) is focused on fostering an open community and enabling developers and researchers to accelerate responsible innovation in AI while ensuring scientific rigor, trust, safety, security, diversity and economic competitiveness. We bring together a critical mass of compute, data, tools, and talent to accelerate and advocate for open innovation in AI.
 
 **What is NAIRR Pilot?** The National Artificial Intelligence Research Resource (NAIRR) is a vision for a shared national research infrastructure for responsible discovery and innovation in AI. Established by the National AI Initiative Act of 2020, the NAIRR Task Force was a federal advisory committee to 
 * Investigate the feasibility and advisability of establishing and sustaining a National AI Research Resource 
