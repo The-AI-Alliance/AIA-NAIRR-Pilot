@@ -5,9 +5,9 @@ nav_order: 100
 has_children: false
 ---
 
-# About MICROSITE_TITLE and The AI Alliance
+# About AI Alliance and NAIRR Pilot Projects and The AI Alliance
 
-**MICROSITE_TITLE** is a project of the [WORK_GROUP_NAME](WORK_GROUP_URL){:target="wg"} work group in [The AI Alliance](https://thealliance.ai){:target="ai-alliance"}. 
+**AI Alliance and NAIRR Pilot Projects** is a project of the [Advocacy](https://thealliance.ai/focus-areas/advocacy){:target="wg"} work group in [The AI Alliance](https://thealliance.ai){:target="ai-alliance"}. 
 
 Please join us! See our [contributing]({{site.baseurl}}/contributing) page for details.
 
