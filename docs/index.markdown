@@ -12,51 +12,35 @@ has_children: false
 
 
 ## Description 
-According to the 2024 AI Index Report, 65.7% of the 149 foundation models released in 2023 were open source and there were 1.8 million AI-related projects on GitHub in 2023, a 59.3% rise in just one year.  Typical reasons for adopting open models are faster access to innovation, cost effectiveness, transparency, and the ability to modify the model. In addition to foundation models, an open-source AI ecosystem must also include tools and techniques to support downstream activities (e.g. model adaptation, human alignment, testing & evaluation, etc.).  With the increasing number of AI regulations around the world that attempt to specify what is acceptable for societal use, how the open-source AI ecosystem manages the risk of building, deploying and managing these systems matters immensely.  Therefore, while bringing many economic and social benefits, there are many technical challenges to create an open-source AI ecosystem. 
-
-The goal of this interdisciplinary workshop is to explore the following five areas:
-* Unique aspects of open source that make them ideal to build responsible AI applications.
-* Technology challenges to make open-source AI the mainstream platform.
-* Demonstration of the real progress already made in the open-source AI community.
-* Technical guidance to support practical and meaningful regulations that promote open technology.
-* Building a vibrant open-source AI community and ecosystem.  
-
-Due to the importance of practical aspects in these areas, we want to address **both active research areas and the practical implementations** that shed light on the increasing role of open-source AI in society.
-
-As is evident from the description above, the impact of open-source AI is undeniable. However, to make it the mainstream approach to develop responsible AI applications, we need to answer many questions, such as:
-* How good are the leading open-source models compared to proprietary models?
-* What real problem can open-source AI solve that a proprietary approach does not?
-* How do we make open-source AI safe and secure?
-* Is it viable to have a completely open-source solution stack? 
-* How is open-source AI affected by the evolving regulations around the world? 
-
-## Examples of Research topics at the intersection of AI and Open Source 
-* Openness:  Current and evolving frameworks for defining openness of AI models
-* Benchmarks for evaluating specific objectives such as Accuracy, Performance, Faithfulness, Bias, etc.
-* Evaluations of open models vs. proprietary models against various metrics.
-* Open Data Sources & standards in various domains such as Industrial Applications, Drug Discovery, etc.
-* Assurance during AI system development: Specifications (e.g. resources, performance, execution speed, etc.) and safety requirements (use cases, context, failure modes, etc.), metrics & benchmarks, model-level and system-level alignment, measurement, continuous evaluation and reporting.
-* Safety & Security: Post deployment concerns such as unintended usage, model jailbreaking, model watermarking, guardrails, etc.  
-* Transparency: Visibility to AI system components (weights, training procedure and results, etc.), particularly the unique challenges in collection, use and potential exposure of data.
-* Accountability: Due to the prevalent use of AI in business applications, open-source poses a unique problem in the ownership of liability compared to proprietary models.
-* Privacy: Enumeration of privacy guarantees required of open-source implementations. 
-* Low resource options: Creation of open-source AI components that do not need enormous computing resources of the closed source options.
-* Frameworks/Platform: Creation of a decentralized open-source option to support End-to-End AI application development.
-* IP ownership and Licensing: Creation of appropriate legal constructs to address the needs of commercial usage of models trained on non-proprietary data.  
+According 
 
 
-## Examples of Demonstration topics at the intersection of AI and Open Source 
-
-* Best practices in development, deployment and monitoring
-* Adaptation of an LLM with various techniques, RAG, LoRA, etc.
-* Building Mixture-of-Experts from LLaMA with Continual Pre-training
-* End to End RAG implementation using open source stack
-* Incremental knowledge addition to LLMs (e.g. InstructLab)
-* Simplifying GenAI deployments with Open Platform for Enterprise AI (OPEA).
-* **Open source tools** for AI guardrails (e.g. PurpleLlama, LlamaGuard), Hate/Abuse/Profanity detection and mitigation, Hallucination detection, Structured generation-Improved performance at reduced costs, Memory-Efficient LLM Training, Quantization & Pruning, etc.
-* Open stack Contrastive Language-Image Pre-Training (CLIP) embeddings
 
 
-## For More Information
+## Core AI Projects 
+* IBM Granite models (https://www.ibm.com/granite) are trained on 12T+ tokens of high-quality, curated data and open sourced with Apache 2.0 license.   They are designed for  
+enterprise tasks supporting language (English, German, Spanish, French, Japanese, Portuguese, Arabic, Czech, Italian, Korean, Dutch, and Chinese) and code (generation, explanation, docstring and pseudocode generation, unit test generation, code fixing)
+* Instruct Lab (https://www.redhat.com/en/topics/ai/what-is-instructlab) is a methodology (with tool support) to enable collaborative model development.  This empowers non-technical experts to teach models about their domains and drives improved model performance at a fraction of the cost of pre-training. 
+* Docling (https://github.com/docling-project/docling) is an efficient open-source toolkit for AI-driven document conversion from various formats (pdf, docx, xlsx, html, etc.)  to outputs in Markdown, HTML, and lossless JSON and integration with LLM frameworks such as LangChain, LlamaIndex, etc.)
+* Data Prep Kit ( https://github.com/data-prep-kit/data-prep-kit ) is an open-source toolkit that contains data preparation recipes for code and language modalities, aimed at fine-tuning, RAG, and instruct-tuning use cases that supports flexible computing from laptop to cluster scale.
+*	Unitxt (https://github.com/IBM/unitxt) is an open-source Python library designed for enterprise-ready LLM evaluation, offering thousands of datasets, metrics, and built-in tools for creating custom benchmarks.  
 
-Use the links on the left-hand side to see more information.
+  
+
+
+## AI for Science Projects  
+
+*	Foundation Model for Materials (FM4M) is a suite of models pre-trained on billions of multimodal molecular data built on SMILES, SELFIES, and molecular graphs.  You can bring your own data to address general and domain-specific prediction tasks (e.g. battery materials).  Available at:
+o	Github: https://github.com/IBM/materials/ 
+o	HuggingFace: https://huggingface.co/collections/ibm-research/materials-6798751004389cf7195eae6a 
+Typical use cases are property prediction, structure generation, etc.  IT-skilled users can leverage Jupyter Notebooks. Chemistry experts can use a GUI-based web application, or a LLM-based chat interface.
+*	Biomedical Foundation Models (BMFM) leverage multi-modal data of different types, including drug-like small molecules and proteins (covering a total of more than a billion molecules), as well as single-cell RNA sequence and other biomedical data.  These can be used for various purposes such as antibody property prediction, gene perturbation prediction, trial design, etc.  More information at: 
+o	https://research.ibm.com/projects/biomedical-foundation-models
+o	Git Repository:  https://github.com/BiomedSciAI
+* 	Prithvi-IBM-NASA Foundation Models for Earth:   IBM and NASA have teamed up to create a family of AI foundation models for Earth called Prithvi. Datasets for pretraining consisted of NASA’s Harmonized Landsat and Sentinel-2 satellite data and NASA’s MERRA-2 climate data.  You can do fine-tuning using your own data to build general and domain-specific models (e.g., lat/lon polygons with crop type information).  These geospatial foundation models make AI accessible for open science users, startups, and enterprises by simplifying model training and deployment.  Available at:
+o	Github: https://github.com/NASA-IMPACT/
+o	HuggingFace: https://huggingface.co/ibm-nasa-geospatial
+Depending on the skill level of the users, they can use Jupyter Notebooks or  Terratorch  (https://github.com/IBM/terratorch ) and GEO-Bench-2 (https://github.com/The-AI-Alliance/GEO-Bench-2 )
+Typical use cases are Earth Observations (e.g. flood detection, wildfire scars detection, crop health, etc.) and Weather & Climate (e.g.  climate model downscaling, hurricane track & intensity prediction, weather forecasting, etc.)  These models deliver high accuracy and reliability while excelling in tasks with limited labelled data.
+
+
