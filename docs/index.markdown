@@ -23,7 +23,7 @@ that includes RHEL-AI for experimentation (https://developers.redhat.com/learn/r
 
 
 ## IBM Research Open Source Tools & Models
-# Core AI Projects 
+### Core AI Projects 
 * IBM Granite models (https://www.ibm.com/granite) are trained on 12T+ tokens of high-quality, curated data and open sourced with Apache 2.0 license.   They are designed for  
 enterprise tasks supporting language (English, German, Spanish, French, Japanese, Portuguese, Arabic, Czech, Italian, Korean, Dutch, and Chinese) and code (generation, explanation, docstring and pseudocode generation, unit test generation, code fixing)
 * Instruct Lab (https://www.redhat.com/en/topics/ai/what-is-instructlab) is a methodology (with tool support) to enable collaborative model development.  This empowers non-technical experts to teach models about their domains and drives improved model performance at a fraction of the cost of pre-training. 
@@ -33,7 +33,7 @@ enterprise tasks supporting language (English, German, Spanish, French, Japanese
 
 
 
-# AI for Science Projects  
+### AI for Science Projects  
 
 *	Foundation Model for Materials (FM4M) is a suite of models pre-trained on billions of multimodal molecular data built on SMILES, SELFIES, and molecular graphs.  You can bring your own data to address general and domain-specific prediction tasks (e.g. battery materials).  Available at:
 o	Github: https://github.com/IBM/materials/ 
