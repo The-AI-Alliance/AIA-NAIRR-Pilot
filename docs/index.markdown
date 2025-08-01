@@ -5,7 +5,7 @@ nav_order: 10
 has_children: false
 ---
 
-# AI Alliance Coordination to Support NSF/NAIRR Pilot 
+# AI Alliance Projects to Support NAIRR Pilot Program 
 
 > **Tip:** Use the search box at the top of this page to find specific content.
 
