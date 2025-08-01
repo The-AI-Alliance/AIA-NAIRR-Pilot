@@ -21,7 +21,7 @@ has_children: false
 In January 2023, the Task Force released a [detailed report](https://nsf-gov-resources.nsf.gov/files/NAIRR-TF-Presentations-01132023.pdf) on its findings and recommendations. The [NAIRR pilot](https://nairrpilot.org/) brings together computational, data, software, model, training and user support resources to demonstrate and investigate all major elements of the NAIRR vision laid out by the NAIRR Task Force. Led by the U.S. National Science Foundation (NSF) in partnership with other federal agencies and non-governmental partners, the pilot makes available government-funded, industry and other contributed resources in support of the nation's research and education community. The NAIRR pilot will run for two years, beginning January 24, 2024.  There is currently [a bill the US Congress](https://www.congress.gov/119/bills/hr2385/BILLS-119hr2385ih.pdf) to establish NAIRR with its full intended scope.
 
 
-**AI Alliance-NAIRR-Pilot Projects**  Consistent with its mission, AI Alliance has brought together three of its members, [Mass Open Cloud]( https://massopen.cloud/), [Red Hat](https://www.redhat.com) and [IBM Research](https://research.ibm.com/) to participate in the NAIRR Pilot program.  The goals are to  
+**AI Alliance-NAIRR-Pilot Projects.**  Consistent with its mission,the AI Alliance has brought together three of its members, [Mass Open Cloud]( https://massopen.cloud/), [Red Hat](https://www.redhat.com) and [IBM Research](https://research.ibm.com/) to participate in the NAIRR Pilot program.  The goals are to  
 * Provide computing resources and open-source AI assets to NAIRR pilot researchers and educators to advance science and education.  
 * Promote open collaboration in developing and deploying AI in society. 
 
