@@ -6,24 +6,26 @@ has_children: false
 ---
 
 
-# AI Alliance Projects to Support NAIRR Pilot Program 
+# Open Source Assets to support AI for Science projects  
 
 > **Tip:** Use the search box at the top of this page to find specific content.
 
 
-## Description 
+## Foundation Model for Materials (FM4M)  
 
-
-### AI for Science Projects  
-
-*	**Foundation Model for Materials (FM4M)** is a suite of models pre-trained on billions of multimodal molecular data built on SMILES, SELFIES, and molecular graphs.  You can bring your own data to address general and domain-specific prediction tasks (e.g. battery materials).  Available at:
+*	**Foundation Model for Materials (FM4M)**
+*	is a suite of models pre-trained on billions of multimodal molecular data built on SMILES, SELFIES, and molecular graphs.  You can bring your own data to address general and domain-specific prediction tasks (e.g. battery materials).  Available at:
 **Github: https://github.com/IBM/materials/ 
 **HuggingFace: https://huggingface.co/collections/ibm-research/materials-6798751004389cf7195eae6a 
 Typical use cases are property prediction, structure generation, etc.  IT-skilled users can leverage Jupyter Notebooks. Chemistry experts can use a GUI-based web application, or a LLM-based chat interface.
+
+## Biomedical Foundation Models (BMFM)
 *	**Biomedical Foundation Models (BMFM)** leverage multi-modal data of different types, including drug-like small molecules and proteins (covering a total of more than a billion molecules), as well as single-cell RNA sequence and other biomedical data.  These can be used for various purposes such as antibody property prediction, gene perturbation prediction, trial design, etc.
 *	More information at: 
 ** https://research.ibm.com/projects/biomedical-foundation-models
 ** Git Repository:  https://github.com/BiomedSciAI
+ 	
+## Prithvi-IBM-NASA Foundation Models for Earth
 * **Prithvi-IBM-NASA Foundation Models for Earth**:   IBM and NASA have teamed up to create a family of AI foundation models for Earth called Prithvi. Datasets for pretraining consisted of NASA’s Harmonized Landsat and Sentinel-2 satellite data and NASA’s MERRA-2 climate data.  You can do fine-tuning using your own data to build general and domain-specific models (e.g., lat/lon polygons with crop type information).  These geospatial foundation models make AI accessible for open science users, startups, and enterprises by simplifying model training and deployment.  Available at:
 **Github: https://github.com/NASA-IMPACT/
 **HuggingFace: https://huggingface.co/ibm-nasa-geospatial
