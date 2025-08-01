@@ -35,8 +35,7 @@ The software stak includes [RHEL-AI for experimentation](https://developers.redh
 
 ### IBM Research Open Source Tools & Models
 There will be two tracks of submission for project proposals: **Track 1: Core AI Projects** and **Track 2: AI for Science Projects**. 
-The assets for 'Core AI projects' track are described [here](https://the-ai-alliance.github.io/AIA-NAIRR-Pilot/core-ai/) and the assets for the 'AI for Science' track are described [here](https://the-ai-alliance.github.io/AIA-NAIRR-Pilot/ai4science/) 
-In either track, **the proposal can have research or educational goals.**  The proposal authors should explain how they would use one or more of the assets mentioned for either track to address their goal(s).    
+The assets for 'Core AI projects' track are described [here](https://the-ai-alliance.github.io/AIA-NAIRR-Pilot/core-ai/) and the assets for the 'AI for Science' track are described [here](https://the-ai-alliance.github.io/AIA-NAIRR-Pilot/ai4science/). In either track, **the proposal can have research or educational goals.**  The authors should explain how they would use one or more of the assets mentioned for either track to address their goal(s).    
 
 
 
