@@ -5,17 +5,9 @@ nav_order: 40
 has_children: false
 ---
 
-# Open Source Assets to support Core  AI Projects 
+## Details on the Mass Open Cloud Usage 
 
 > **Tip:** Use the search box at the top of this page to find specific content.
 
 
-## IBM Granite Models  
-IBM Granite models (https://www.ibm.com/granite) are trained on 12T+ tokens of high-quality, curated data and open sourced with Apache 2.0 license.   They are designed for enterprise tasks supporting language (English, German, Spanish, French, Japanese, Portuguese, Arabic, Czech, Italian, Korean, Dutch, and Chinese) and code (generation, explanation, docstring and pseudocode generation, unit test generation, code fixing)
-## Instruct Lab
-(https://www.redhat.com/en/topics/ai/what-is-instructlab) is a methodology (with tool support) to enable collaborative model development.  This empowers non-technical experts to teach models about their domains and drives improved model performance at a fraction of the cost of pre-training. 
-## Docling 
-(https://github.com/docling-project/docling) is an efficient open-source toolkit for AI-driven document conversion from various formats (pdf, docx, xlsx, html, etc.)  to outputs in Markdown, HTML, and lossless JSON and integration with LLM frameworks such as LangChain, LlamaIndex, etc.)
-## Data Prep Kit 
-( https://github.com/data-prep-kit/data-prep-kit ) is an open-source toolkit that contains data preparation recipes for code and language modalities, aimed at fine-tuning, RAG, and instruct-tuning use cases that supports flexible computing from laptop to cluster scale.
-## Unitxt 
+The MOC allocates resources as needed to research projects from a pool of approximately 1000 servers with 30,000 cores.  Ceph storage of up to 50PB is available for project data.  The MOC is not certified for use with PII or HIPAA data.  Approximately 270 Nvidia GPUs (mostly A100SXM4s and H100s) and a small number of AMD MI210 accelerator graphics cards are available.  The MOC provides high-speed networking to public and research infrastructure, along with available external IP addresses as needed.   Details on usage pricing for various resources are available at https://nerc-project.github.io/nerc-docs/get-started/cost-billing/how-pricing-works/ . The resources provided to the NAIRR pilots will be allocated as usage credits, with a maximum quota specified for the credits.   Researchers may choose how to allocate their credits among resources.
