@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Project Guidelines
-nav_order: 50
+title: Proposal Guidelines
+nav_order: 60
 has_children: false
 ---
 
