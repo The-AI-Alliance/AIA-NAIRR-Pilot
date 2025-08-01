@@ -10,7 +10,7 @@ has_children: false
 > **Tip:** Use the search box at the top of this page to find specific content.
 
 
-## Description 
+## Overview 
 
 [**The AI Alliance**](https://thealliance.ai/) is focused on fostering an open community and enabling developers and researchers to accelerate responsible innovation in AI while ensuring scientific rigor, trust, safety, security, diversity and economic competitiveness. We bring together a critical mass of compute, data, tools, and talent to accelerate and advocate for open innovation in AI.
 
