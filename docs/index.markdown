@@ -25,7 +25,7 @@ In January 2023, the Task Force released a [detailed report](https://nsf-gov-res
 * **Provide computing resources and open-source AI assets to NAIRR pilot researchers and educators to advance science and education.**
 * **Promote open collaboration in developing and deploying AI in society.** 
 
-## Description of project assets
+## Description of resources for NAIRR Pilot projects
 
 # Mass Open Cloud
 [Mass Open Cloud]( https://massopen.cloud/)  provides facilitation support for users and projects, with integration and development support for those who are new to AI/ML and kubernetes-style resource management.  The MOC operates a production Red Hat/OpenShift cloud and also provides bare-metal servers for research and development use. All operations software is open source, so experimenters can have access to the lowest levels of the software stack as needed.  Telemetry is also stored and provided to all researchers. Power consumption statistics for the infrastructure are also available on request for those who are researching sustainability.
