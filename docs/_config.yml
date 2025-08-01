@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title:   AI Alliance & NAIRR Pilot Projects
+title:   AI Alliance-NAIRR Pilot Projects
 email: contact@thealliance.ai
 description: >- # this means to ignore newlines until "baseurl:"
   The website is in support of NAIRR Pilot projects coordinated by the AI Alliance. 
@@ -70,7 +70,7 @@ aux_links:
     - "https://thealliance.ai"
 
 nav_external_links:
-  - title: The AI Alliance repo for AI Alliance and NAIRR Pilot Projects"
+  - title: The AI Alliance repo for AI Alliance-NAIRR Pilot Projects"
     url: "https://github.com/The-AI-Alliance/AIA-NAIRR-Pilot"
     hide_icon: false
 
@@ -102,7 +102,7 @@ copyright_years: 2025
 # "Edit this page on GitHub" link text
 gh_edit_link: false # show or hide edit this page link
 gh_edit_link_text: "Edit this page on GitHub"
-gh_edit_repository: "https://github.com/The-AI-Alliance/AIA-NAIRR-Pilots/tree/main/docs" # the github URL for your repo
+gh_edit_repository: "https://github.com/The-AI-Alliance/AIA-NAIRR-Pilot/tree/main/docs" # the github URL for your repo
 gh_edit_branch: "main" # the branch that your docs are served from
 gh_edit_source: "docs" # the source that your files originate from
 gh_edit_view_mode: "tree" # "tree" or "edit" if you want the user to jump into the editor immediately
