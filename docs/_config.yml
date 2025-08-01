@@ -71,7 +71,7 @@ aux_links:
 
 nav_external_links:
   - title: The AI Alliance repo for AI Alliance and NAIRR Pilot Projects"
-    url: "https://github.com/The-AI-Alliance/AIA-NAIRR-Pilots"
+    url: "https://github.com/The-AI-Alliance/AIA-NAIRR-Pilot"
     hide_icon: false
 
 # Makes Aux links open in a new tab. Default is false
