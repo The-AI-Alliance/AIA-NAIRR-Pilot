@@ -5,7 +5,7 @@ nav_order: 20
 has_children: false
 ---
 
-# Description of Core  AI IBM Open source assets 
+# Open Source Assets to support Core  AI Projects 
 
 > **Tip:** Use the search box at the top of this page to find specific content.
 
