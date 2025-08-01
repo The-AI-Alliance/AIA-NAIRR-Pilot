@@ -15,6 +15,6 @@ The MOC allocates resources as needed to research projects from a pool of approx
 
 ### Data Policies 
 MOC  does not permit users to use its Services for or allow the processing of following data types:
-a) “protected health information” as such term is defined at 45 C.F.R. § 160.103;
-b) “personal information” or “personal data” or similar designation under an state data protection or breach law, including without limitation Section 1 of M.G.L. c. 93H; and
-c) any data that would require University to take affirmative steps in order to store, access, use, transfer, or otherwise process such data (e.g., Federal Data under the Privacy Act of 1974, classified data, or personal data under the EU's General Data Protection Regulation, or China's Personal Information Protection Law).
+1. a) “protected health information” as such term is defined at 45 C.F.R. § 160.103;
+2. b) “personal information” or “personal data” or similar designation under an state data protection or breach law, including without limitation Section 1 of M.G.L. c. 93H; and
+3. c) any data that would require University to take affirmative steps in order to store, access, use, transfer, or otherwise process such data (e.g., Federal Data under the Privacy Act of 1974, classified data, or personal data under the EU's General Data Protection Regulation, or China's Personal Information Protection Law).
