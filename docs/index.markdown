@@ -34,13 +34,12 @@ In January 2023, the Task Force released a [detailed report](https://nsf-gov-res
 The software stak includes [RHEL-AI for experimentation](https://developers.redhat.com/learn/rhel-ai-try-llms-easy-way) and [OpenShift AI for enterprise application development](https://www.redhat.com/en/products/ai/openshift-ai). This environment provides tools across the full lifecycle of AI/ML experiments and models and helps build, train, test, and deploy models optimized for hybrid cloud environments.  
 
 ### IBM Research Open Source Tools & Models
-There will be two tracks of 
-Core AI Projects 
+There will be two tracks of submission for project proposals: **Track 1: Core AI Projects** and **Track 2: AI for Science Projects**  
 
+where the applicant will propose a research or educational select one or more of the open source models and tools from the list provided on [this page](https://the-ai-alliance.github.io/AIA-NAIRR-Pilot/core-ai/). 
 
+The project proposals can have research or educational goals.  The authors should explain how they would use the resources described above to address a research or educational goal.   
 
-
-### AI for Science Projects  
 
 
 
