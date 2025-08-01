@@ -13,10 +13,12 @@ has_children: false
 
 ## Foundation Model for Materials (FM4M)  
 
-*	**Foundation Model for Materials (FM4M)**
-*	is a suite of models pre-trained on billions of multimodal molecular data built on SMILES, SELFIES, and molecular graphs.  You can bring your own data to address general and domain-specific prediction tasks (e.g. battery materials).  Available at:
-**Github: https://github.com/IBM/materials/ 
+*Foundation Model for Materials (FM4M)* is a suite of models pre-trained on billions of multimodal molecular data built on SMILES, SELFIES, and molecular graphs.  You can bring your own data to address general and domain-specific prediction tasks (e.g. battery materials).  Available at:
+  
+**Github: https://github.com/IBM/materials/
+ 	
 **HuggingFace: https://huggingface.co/collections/ibm-research/materials-6798751004389cf7195eae6a 
+
 Typical use cases are property prediction, structure generation, etc.  IT-skilled users can leverage Jupyter Notebooks. Chemistry experts can use a GUI-based web application, or a LLM-based chat interface.
 
 ## Biomedical Foundation Models (BMFM)
