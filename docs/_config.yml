@@ -17,7 +17,7 @@ title:   AI Alliance & NAIRR Pilot Projects
 email: contact@thealliance.ai
 description: >- # this means to ignore newlines until "baseurl:"
   The website is in support of NAIRR Pilot projects coordinated by the AI Alliance. 
-baseurl: "/AIA-NAIRR-Pilots" # the subpath of your site.
+baseurl: "/AIA-NAIRR-Pilot" # the subpath of your site.
 url: "https://the-ai-alliance.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 permalink: pretty
