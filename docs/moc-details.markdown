@@ -20,4 +20,4 @@ a) “protected health information” as such term is defined at 45 C.F.R. § 16
 
 b) “personal information” or “personal data” or similar designation under an state data protection or breach law, including without limitation Section 1 of M.G.L. c. 93H; and
 
-c) any data that would require University to take affirmative steps in order to store, access, use, transfer, or otherwise process such data (e.g., Federal Data under the Privacy Act of 1974, classified data, or personal data under the EU's General Data Protection Regulation, or China's Personal Information Protection Law).
+c) any data that would require MOC to take affirmative steps in order to store, access, use, transfer, or otherwise process such data (e.g., Federal Data under the Privacy Act of 1974, classified data, or personal data under the EU's General Data Protection Regulation, or China's Personal Information Protection Law).
