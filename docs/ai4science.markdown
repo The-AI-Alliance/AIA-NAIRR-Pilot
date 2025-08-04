@@ -22,11 +22,15 @@ has_children: false
 Typical use cases are property prediction, structure generation, etc.  IT-skilled users can leverage Jupyter Notebooks. Chemistry experts can use a GUI-based web application, or a LLM-based chat interface.
 
 ## Biomedical Foundation Models (BMFM)
-**Biomedical Foundation Models (BMFM)** leverage multi-modal data of different types, including drug-like small molecules and proteins (covering a total of more than a billion molecules), as well as single-cell RNA sequence and other biomedical data.  These can be used for various purposes such as antibody property prediction, gene perturbation prediction, trial design, etc. More information at: 
+**Biomedical Foundation Models (BMFM)** leverage multi-modal data of different types, including drug-like small molecules and proteins (covering a total of more than a billion molecules), single-cell RNA gene-expression levels, whole genome DNA sequence, and other biomedical data.  These can be used for various purposes such as antibody property prediction, gene perturbation prediction, cell type annotation, single-nucleotide polymorphism/disease association, trial design, etc.  More information at:  
 
 **Blog:** <https://research.ibm.com/projects/biomedical-foundation-models>
 
 **Github:** <https://github.com/BiomedSciAI>
+* <https://github.com/BiomedSciAI/biomed-multi-alignment> 
+* <https://github.com/BiomedSciAI/biomed-multi-view> 
+* <https://github.com/BiomedSciAI/biomed-multi-omic> 
+
  	
 ## Prithvi-IBM-NASA Foundation Models for Earth
 IBM and NASA have teamed up to create a family of AI foundation models for Earth called Prithvi. Datasets for pretraining consisted of NASA’s Harmonized Landsat and Sentinel-2 satellite data and NASA’s MERRA-2 climate data.  You can do fine-tuning using your own data to build general and domain-specific models (e.g., lat/lon polygons with crop type information).  These geospatial foundation models make AI accessible for open science users, startups, and enterprises by simplifying model training and deployment.  Available at:
