@@ -9,9 +9,19 @@ has_children: false
 
 > **Tip:** Use the search box at the top of this page to find specific content.
 
-
 ## IBM Granite Models  
-[IBM Granite models](https://www.ibm.com/granite) are trained on 12T+ tokens of high-quality, curated data and open sourced with Apache 2.0 license.   They are designed for enterprise tasks supporting language (English, German, Spanish, French, Japanese, Portuguese, Arabic, Czech, Italian, Korean, Dutch, and Chinese) and code (generation, explanation, docstring and pseudocode generation, unit test generation, code fixing)
+* [IBM Granite models for Language and Code](https://www.ibm.com/granite) are trained on 12T+ tokens of high-quality, curated data and open sourced with Apache 2.0 license.   They are designed for enterprise tasks supporting language (English, German, Spanish, French, Japanese, Portuguese, Arabic, Czech, Italian, Korean, Dutch, and Chinese) and code (generation, explanation, docstring and pseudocode generation, unit test generation, code fixing)
+* Guardian
+
+* Embedding
+* Speech
+* Vision
+* Time Series Foundation Models
+  https://huggingface.co/ibm-granite/granite-timeseries-ttm-r2
+  https://huggingface.co/ibm-granite/granite-timeseries-tspulse-r1
+
+
+
 ## Instruct Lab
 [Instruct Lab](https://www.redhat.com/en/topics/ai/what-is-instructlab) is a methodology (with tool support) to enable collaborative model development.  This empowers non-technical experts to teach models about their domains and drives improved model performance at a fraction of the cost of pre-training. 
 ## Docling 
@@ -21,5 +31,8 @@ has_children: false
 ## Unitxt 
 [Unitxt](https://github.com/IBM/unitxt) is an open-source Python library designed for enterprise-ready LLM evaluation, offering thousands of datasets, metrics, and built-in tools for creating custom benchmarks.  
 
+## Risk Atlas Nexus 
+[Risk Atlas Nexus](https://github.com/IBM/risk-atlas-nexus) aims to turn abstract risk definitions into actionable workflows that streamline AI governance processes. By connecting fragmented resources, Risk Atlas Nexus seeks to fill a critical gap in AI governance, enabling stakeholders to build more robust, transparent, and accountable systems. 
 
-
+## Eval Assist : https://github.com/IBM/eval-assist
+## AI Attribution •	https://aiattribution.github.io/
