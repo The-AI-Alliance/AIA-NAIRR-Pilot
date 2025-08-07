@@ -15,10 +15,7 @@ has_children: false
 * [Granite Embedding Models](https://www.ibm.com/granite/docs/models/embedding) deliver high-performance sentence-transformer models optimized for retrieval, generating precise embeddings for seamless comparison. Built on ethically sourced datasets and fine-tuned with advanced techniques, these models excel in both academic and enterprise use cases.
 * [Granite Speech](https://www.ibm.com/granite/docs/models/speech/) is a compact and efficient speech-language model, built on top of IBMs Granite language model and specifically designed for English automatic speech recognition (ASR).
 * [Granite Vision](https://www.ibm.com/granite/docs/models/vision/) is designed for efficient content extraction from tables, charts, and diagrams, making it a powerful tool for structured data analysis. 
-* [Granite Time Series](https://www.ibm.com/granite/docs/models/time-series/) family includes ultra-compact, open-source models optimized for a variety of time-series tasks, starting at under 1 million parameters for maximum efficiency
-  
- [Tiny Time Mixer](https://huggingface.co/ibm-granite/granite-timeseries-ttm-r2) (TTM)
- 
+* [Granite Time Series](https://www.ibm.com/granite/docs/models/time-series/) family includes ultra-compact, open-source models optimized for a variety of time-series tasks, starting at under 1 million parameters for maximum efficiency:  [Tiny Time Mixer](https://huggingface.co/ibm-granite/granite-timeseries-ttm-r2) (TTM) &  
  [Time Series Pulse](https://huggingface.co/ibm-granite/granite-timeseries-tspulse-r1) (TSPulse)
 
 
