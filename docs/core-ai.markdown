@@ -10,7 +10,7 @@ has_children: false
 > **Tip:** Use the search box at the top of this page to find specific content.
 
 ## IBM Granite Models  
-* [IBM Granite models for Language and Code](https://www.ibm.com/granite) are trained on 12T+ tokens of high-quality, curated data and open sourced with Apache 2.0 license.   They are designed for enterprise tasks supporting language (English, German, Spanish, French, Japanese, Portuguese, Arabic, Czech, Italian, Korean, Dutch, and Chinese) and code (generation, explanation, docstring and pseudocode generation, unit test generation, code fixing)
+* [Granite models for Language and Code](https://www.ibm.com/granite) are trained on 12T+ tokens of high-quality, curated data and open sourced with Apache 2.0 license.   They are designed for enterprise tasks supporting language (English, German, Spanish, French, Japanese, Portuguese, Arabic, Czech, Italian, Korean, Dutch, and Chinese) and code (generation, explanation, docstring and pseudocode generation, unit test generation, code fixing)
 * [Granite Guardian Models](https://www.ibm.com/granite/docs/models/guardian/) are a robust suite of safeguards designed to detect risks in both prompts and responses, ensuring safe and responsible use with any large language model while promoting responsible AI development.
 * [Granite Embedding Models](https://www.ibm.com/granite/docs/models/embedding) deliver high-performance sentence-transformer models optimized for retrieval, generating precise embeddings for seamless comparison. Built on ethically sourced datasets and fine-tuned with advanced techniques, these models excel in both academic and enterprise use cases.
 * [Granite Speech](https://www.ibm.com/granite/docs/models/speech/) is a compact and efficient speech-language model, built on top of IBMs Granite language model and specifically designed for English automatic speech recognition (ASR).
@@ -31,5 +31,8 @@ has_children: false
 ## Risk Atlas Nexus 
 [Risk Atlas Nexus](https://github.com/IBM/risk-atlas-nexus) aims to turn abstract risk definitions into actionable workflows that streamline AI governance processes. By connecting fragmented resources, Risk Atlas Nexus seeks to fill a critical gap in AI governance, enabling stakeholders to build more robust, transparent, and accountable systems. 
 
-## Eval Assist : https://github.com/IBM/eval-assist
-## AI Attribution •	https://aiattribution.github.io/
+## Eval Assist
+[Eval Assist](https://github.com/IBM/eval-assist) simplifies using large language models as evaluators (LLM-as-a-Judge) of the output of other large language models by supporting users in iteratively refining evaluation criteria in a web-based user experience.
+
+## AI Attribution 
+[AI Attribution](https://aiattribution.github.io/) toolkit helps users describe how AI contributed to their work. It’s an attempt to create a voluntary, detailed attribution standard to make generative AI more transparent.
