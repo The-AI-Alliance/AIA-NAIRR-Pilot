@@ -29,7 +29,9 @@ Typical use cases are property prediction, structure generation, etc.  IT-skille
 **Github:** <https://github.com/BiomedSciAI>
 * <https://github.com/BiomedSciAI/biomed-multi-alignment> 
 * <https://github.com/BiomedSciAI/biomed-multi-view> 
-* <https://github.com/BiomedSciAI/biomed-multi-omic> 
+* <https://github.com/BiomedSciAI/biomed-multi-omic>
+  
+**HuggingFace:** <https://huggingface.co/collections/ibm/biomed-671fc7694b2e5a664a9f098e>
 
  	
 ## Prithvi-IBM-NASA Foundation Models for Earth
