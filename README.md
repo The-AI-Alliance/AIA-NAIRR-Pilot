@@ -1,10 +1,10 @@
 # README for AI Alliance and NAIRR Pilot Projects
 
-[Published Documentation](https://the-ai-alliance.github.io/AIA-NAIRR-Pilots/)
+[Published Documentation](https://the-ai-alliance.github.io/AIA-NAIRR-Pilot/)
 
 This repo contains the code and documentation for the AI Alliance: AI Alliance and NAIRR Pilot Projects.
 
-See the [project website](https://the-ai-alliance.github.io/AIA-NAIRR-Pilots/) for additional details about this project.
+See the [project website](https://the-ai-alliance.github.io/AIA-NAIRR-Pilot/) for additional details about this project.
 
 TODO - Describe this project
 
