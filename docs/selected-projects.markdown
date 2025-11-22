@@ -5,8 +5,8 @@ nav_order: 60
 has_children: false
 ---
 
-# Awardees for NAIRR Deep Partnership program 
-# IBM & the AI Alliance -Collaboration on Open Source Cloud Platform, Models and Tools
+## NAIRR Deep Partnership Program: IBM & the AI Alliance -Collaboration on Open Source Cloud Platform, Models and Tools 
+
 
 > **Tip:** Use the search box at the top of this page to find specific content.
 
