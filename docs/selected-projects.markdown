@@ -5,16 +5,25 @@ nav_order: 60
 has_children: false
 ---
 
-# Open Source Assets to support Core  AI Projects 
+# Awardees for NAIRR Deep Partnership program 
+# IBM & the AI Alliance -Collaboration on Open Source Cloud Platform, Models and Tools
 
 > **Tip:** Use the search box at the top of this page to find specific content.
 
-## IBM Granite Models  
-* [Granite models for Language and Code](https://www.ibm.com/granite) are trained on 12T+ tokens of high-quality, curated data and open sourced with Apache 2.0 license.   They are designed for enterprise tasks supporting language (English, German, Spanish, French, Japanese, Portuguese, Arabic, Czech, Italian, Korean, Dutch, and Chinese) and code (generation, explanation, docstring and pseudocode generation, unit test generation, code fixing)
-* [Granite Guardian Models](https://www.ibm.com/granite/docs/models/guardian/) are a robust suite of safeguards designed to detect risks in both prompts and responses, ensuring safe and responsible use with any large language model while promoting responsible AI development.
-* [Granite Embedding Models](https://www.ibm.com/granite/docs/models/embedding) deliver high-performance sentence-transformer models optimized for retrieval, generating precise embeddings for seamless comparison. Built on ethically sourced datasets and fine-tuned with advanced techniques, these models excel in both academic and enterprise use cases.
-* [Granite Speech](https://www.ibm.com/granite/docs/models/speech/) is a compact and efficient speech-language model, built on top of IBMs Granite language model and specifically designed for English automatic speech recognition (ASR).
-* [Granite Vision](https://www.ibm.com/granite/docs/models/vision/) is designed for efficient content extraction from tables, charts, and diagrams, making it a powerful tool for structured data analysis. 
-* [Granite Time Series](https://www.ibm.com/granite/docs/models/time-series/) family includes ultra-compact, open-source models optimized for a variety of time-series tasks, starting at under 1 million parameters for maximum efficiency:  [Tiny Time Mixer](https://huggingface.co/ibm-granite/granite-timeseries-ttm-r2) (TTM) & [Time Series Pulse](https://huggingface.co/ibm-granite/granite-timeseries-tspulse-r1) (TSPulse)
+
+
+|Faculty  |Institution   | Title |
+| :------- | :-------- |  :-------- |
+|Deepti  Ghadiyaram  |Boston University |CLEARBOX: Interpreting and Improving Multimodal LLMs |
+|Indranil Gupta |University of Illinois at Urbana-Champaign |Building Reliability and Transaction Semantics for LLM Agents | 
+|Junchen Jiang |University of Chicago | Multi-Modal Semantic Routing for vLLM  |
+|Agung Julius |Time Series Data Agent: an Agentic System with Foundation Models for Multimodal Data |
+|Nam Sung  Kim |University of Illinois at Urbana-Champaign|Efficient Memory Offloading for Cost- and Energy-Efficient Foundation Model Training|
+|Mohammad  Mohammadi Amiri |Rensselaer Polytechnic Institute| Adaptive KV-Cache Compression for Agentic AI |
+|Alessandro Orso |University of Georgia| “Evaluating and Improving Applications of Large Language Models to Automated Software Testing|
+|Stacy Patterson |Rensselaer Polytechnic Institute | Model Merging for Code LLMs: Reasoning Fusion and MoE-Aware Methods |
+
+
+
 
 
