@@ -7,7 +7,8 @@ has_children: false
 
 ## NAIRR Deep Partnership Program
 ## IBM & the AI Alliance -Collaboration on Open Source Cloud Platform, Models and Tools 
-### *Selected Projects*
+
+### Selected Projects
 
 
 > **Tip:** Use the search box at the top of this page to find specific content.
