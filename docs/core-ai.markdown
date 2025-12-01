@@ -28,8 +28,8 @@ has_children: false
 ## Unitxt 
 [Unitxt](https://github.com/IBM/unitxt) is an open-source Python library designed for enterprise-ready LLM evaluation, offering thousands of datasets, metrics, and built-in tools for creating custom benchmarks.  
 
-## Risk Atlas Nexus 
-[Risk Atlas Nexus](https://github.com/IBM/risk-atlas-nexus) aims to turn abstract risk definitions into actionable workflows that streamline AI governance processes. By connecting fragmented resources, Risk Atlas Nexus seeks to fill a critical gap in AI governance, enabling stakeholders to build more robust, transparent, and accountable systems. 
+## AI Atlas Nexus 
+[AI Atlas Nexus](https://github.com/IBM/ai-atlas-nexus) (previously called _Risk Atlas Nexus_) aims to turn abstract AI risk definitions into actionable workflows that streamline AI governance processes. By connecting fragmented resources, AI Atlas Nexus seeks to fill a critical gap in AI governance, enabling stakeholders to build more robust, transparent, and accountable systems. 
 
 ## Eval Assist
 [Eval Assist](https://github.com/IBM/eval-assist) simplifies using large language models as evaluators (LLM-as-a-Judge) of the output of other large language models by supporting users in iteratively refining evaluation criteria in a web-based user experience.
